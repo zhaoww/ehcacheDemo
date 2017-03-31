@@ -15,7 +15,7 @@
           diskExpiryThreadIntervalSeconds="120"
           memoryStoreEvictionPolicy="LRU"/>
 
-  <!-- helloworld缓存 -->
+  <!-- cacheTest缓存 -->
   <cache name="cacheTest"
          maxElementsInMemory="1000"
          eternal="false"
